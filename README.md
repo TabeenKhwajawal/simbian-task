@@ -11,3 +11,4 @@ Future Improvements:
 2. Add more interaction between elements (e.g., hovering on a step highlights related summary cards)
 3. Optimize performance, especially when many alerts are being generated
 4. If I had high quality assets, i'd have used them as well to make it better in terms of appearance
+5. Organise the code in a better way.
